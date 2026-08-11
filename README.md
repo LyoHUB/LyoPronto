@@ -1,4 +1,7 @@
 
+![https://img.shields.io/badge/docs-dev-blue.svg](https://lyohub.github.io/LyoPRONTO/dev)
+![https://img.shields.io/badge/docs-latest-blue.svg](https://lyohub.github.io/LyoPRONTO/latest)
+
 LyoPRONTO is an open-source user-friendly tool to simulate and optimize freezing and primary drying in lyophilizers written using Python.
 
 # Installation
